@@ -1,0 +1,9 @@
+.posts {
+  border: 1px solid #e0e0e0;
+  width: 62%;
+  margin: 10px;
+  margin-top: 20px;
+  padding: 15px;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 5px grey;
+}
